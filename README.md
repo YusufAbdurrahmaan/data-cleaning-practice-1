@@ -48,9 +48,12 @@ The notebook covers the following topics:
 - [x] Dropping irrelevant columns (`drop()`)
 - [x] Detecting and handling outliers (`IQR`, `Z-score`)
 
-## 📄 Dataset source
+## 📄 Dataset Source
 
-Dataset : https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+
+Dataset from Kaggle by **Fedesoriano**:  
+https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+
 
 ---
 
